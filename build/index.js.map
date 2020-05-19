@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../index.js"],"sourcesContent":["import('./src/main.js').then(m => m);\r\n"],"names":[],"mappings":"AAAA,OAAO,WAAe,CAAC,CAAC,IAAI,CAAC,CAAC,IAAI,CAAC,CAAC"}
