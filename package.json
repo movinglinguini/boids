@@ -6,7 +6,7 @@
   "dependencies": {
     "@movinglinguini/three-boilerplate": "0.0.6",
     "rollup": "^2.10.2",
-    "three": "^0.116.1"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^7.1.3",
